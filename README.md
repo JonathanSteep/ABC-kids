@@ -2,7 +2,7 @@
 Integrantes del Grupo
 
 Daniela Ospina
-Gisell Trejos
+Gissell Trejos
 Natalia Ramos 
 Jonathan Garzon
 
