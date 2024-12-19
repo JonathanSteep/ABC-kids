@@ -1,5 +1,7 @@
 html {
+  .img-thumbnail {
+    border: 1px solid #ddd; /* Add a border if needed */
+    max-width: 100%;
     height: 100%;
-    width: 100%;
   }
-  
+}
